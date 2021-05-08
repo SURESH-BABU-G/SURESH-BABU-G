@@ -1,8 +1,7 @@
 ### Hola, I'm a Anxious developer working with web development in Laravel and Node js 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Globussoft Technologies
+- 🔭 I’m currently working in Globussoft Technologies 
 - 🌱 I’m currently teaching NODE, JS, SCSS, Web-Design, Advanced technial stuffs, list will be added soon
 - 👯 I’m looking to collaborate on Open source projects
 - 🤔 I’m looking for help with Docker and Cubernates
