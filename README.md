@@ -1,6 +1,6 @@
 ### Hola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">,
 
-### I'm a Anxious web development developer working with Laravel and Node js & UI development as well :star_struck: .
+### I'm a Anxious web development developer working with Laravel and Node js & UI development as well :star_struck:
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Tutorial  :arrows_counterclockwise:  Teaching Repositories
+### Tutorial :arrows_counterclockwise: Teaching Repositories
 
 [<img align="left" alt="Visual Studio Code" width="40px" style="padding-left:20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscoderepo]
 
