@@ -53,7 +53,7 @@
 <br />
 <br />
 <br />
-<div style="text-align:center;color:green;text-transform:uppercase"> Few more will be added soon ... </div>
+<div style="text-align:center;color:green;text-transform:uppercase" class="testHtml"> Few more will be added soon ... </div>
 
 ---
 
@@ -75,14 +75,14 @@
 
 I 've completed B.tech in CSE department, Coding is well known from the 1st year of B.tech
 
-```
-Learnt about CSS, HTML, JS, JQuery, DB of MySql, data structures, Java etc...
+```diff
++ Learnt about CSS, HTML, JS, JQuery, DB of MySql, data structures, Java etc...
 ```
 
 WorkShops
 
-```
-Artificial Intelligence, Big Data, Microsoft Azure
+```diff
+# Artificial Intelligence, Big Data, Microsoft Azure
 ```
 
 ---
@@ -91,24 +91,24 @@ Artificial Intelligence, Big Data, Microsoft Azure
 
 I joined based on C & Java, But designation as Trainer for PHP and NODE js. After a month train of PHP, I shifted for NODE JS due to the requirement, I had the best Trainer and well knowledged person as TL,
 
-```
-I worked ~6 Months under him as a fresher ( I worked in running project -Socioboard 4.0 )
+```diff
++ I worked ~6 Months under him as a fresher ( I worked in running project -Socioboard 4.0 )
 ```
 
 In that less span of time I learnt a lot that I crossed the knowledge level of most other members of same domain
 
-```
-Then after ~3 months my TL left and I become TL and one man developer for my Project
+```diff
++ Then after ~3 months my TL left and I become TL and one man developer for my Project
 ```
 
 and there after also I never stopped learning new things on Own.
 
-```
-Daily at least 1hr - evening or morning I used to learn things, Till today I never asked a single doubt from any member in my company
+```diff
+! Daily at least 1hr - evening or morning I used to learn things, Till today I never asked a single doubt from any member in my company
 ```
 
-```
-My Goal is, Explain To some one not to ask from some one
+```diff
+- My Goal is, Explain To some one not to ask from some one
 ```
 
 <!--  All the Links will be declared after this -->
