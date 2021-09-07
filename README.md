@@ -1,6 +1,6 @@
 ### Hola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">,
 
-### I'm a Anxious web development developer working with Laravel and Node js & UI development as well :star_struck:
+### I'm a Anxious web application developer working with Laravel, Node js and UI/UX development as well :star_struck:
 
 ---
 
